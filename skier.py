@@ -1,5 +1,6 @@
 import pygame, sys, random
-skier_images = ["skier_down.png","skier_right1.png","skier_right2.png","skier_left2.png","skier_left1.png"]
+skier_images = ["skier_down.png","skier_right1.png","skier_right2.png",\
+                "skier_left2.png","skier_left1.png"]
 class SkierClass(pygame.sprite.Sprite):
     def __init__(self):
         pygame.sprite.Sprite.__init__(self)
