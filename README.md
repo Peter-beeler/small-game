@@ -1,0 +1,1 @@
+This is the first game programme in a python guide book. I just typed for learning.  
